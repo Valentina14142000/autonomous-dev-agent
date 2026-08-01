@@ -1,4 +1,4 @@
-# Autonomous Multi-Agent Software Engineering System 🤖
+# Autonomous Multi-Agent Software Engineering System 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-orange)
@@ -9,7 +9,7 @@ A production-grade, supervisor-worker multi-agent workflow built with **LangGrap
 
 ---
 
-## 🏗️ System Architecture & Workflow
+##  System Architecture & Workflow
 
 ```mermaid
 graph TD
